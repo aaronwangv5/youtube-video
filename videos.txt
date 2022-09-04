@@ -483,7 +483,7 @@ djy-news|IQ4U3rnlv-s|傳中共廣電總局禁藝人用外文名 楊穎首當其�
 djy-news|-RIYy_b8pzQ|中國銀行業亂象頻出 民眾如何保財？【 #聽紀元 】｜ #大紀元新聞網
 djy-news|LH4MElZpoRk|習近平想終身執政？二十大或露端倪【 #聽紀元 】｜ #大紀元新聞網
 djy-news|aSoFIhN2LFQ|前中山一院醫生：中共活摘器官是真的【 #聽紀元 】｜ #大紀元新聞網
-djy-news|fD7rd3TpC_s|武汉黄陂区盘龙城多个小区的居民群起抗爭、要求解封，當局出動多輛公安車、警察在當地維穩。【 #大陸民生 】｜ #大紀元新聞網
+djy-news|fD7rd3TpC_s|武漢黃陂區盤龍城多個小區的居民群起抗爭、要求解封，當局出動多輛公安車、警察在當地維穩。 【 #大陸民生 】｜ #大紀元新聞網
 djy-news|3uK1CDeiLlA|成都核酸系統崩潰 防疫人員舉手機找信號 紅衛兵戴個紅袖張就開始囂張跋扈 民眾深夜冒雨等待做核酸【 #大陸民生 】｜ #大紀元新聞網
 djy-news|yYPDjpOgpfI|深圳封城 如同死城； 不信謠不傳謠 半夜一車一車往外拖【 #大陸民生 】｜ #大紀元新聞網
 djy-news|0LXNNTZp8zE|9月3日，黑龍江省大慶封城已半月，沒吃的，居民集體暴動，大批公安維穩。【 #大陸民生 】｜ #大紀元新聞網
@@ -2307,7 +2307,6 @@ StrictlyDumpling|nCZoJPerL34|#1 BEST SEAFOOD RESTAURANT & All You Can Eat PORTUG
 StrictlyDumpling|ihScIs4RKG8|FINALLY Found an ALL YOU CAN EAT Chinese Sichuan Buffet & STARBUCKS MOONCAKES in Singapore
 StrictlyDumpling|tSdJU_pYve0|BEST BREAKFAST Japanese ALL EGG Restaurant & OKONOMIYAKI Japanese FOOD TOUR in Singapore
 StrictlyDumpling|XTMLcdUqViE|All You Can Eat SINGAPORE CHILI CRAB & LOBSTER Buffet! BEST SEAFOOD BUFFET EVER?!
-Sarkissian|aaktdr_0R7w|Shooting 50bmg into Frozen Lake
 Sarkissian|TF67SheaJwc|Full auto ak47 into frozen lake
 Sarkissian|31lxJdPWBt8|My 50cal went Bananas
 Sarkissian|trjpvH_j__E|Colt 1911 38 super watch bullets go down
@@ -2357,6 +2356,7 @@ Sarkissian|0g8qj286was|Lets do some Science work
 Sarkissian|Ze54BiPAu9M|We almost died…
 Sarkissian|biRxTNdA_iE|Don't shoot Oxygen Tanks
 Sarkissian|hv8zzRSWV2Q|1911 Magnum research
+Sarkissian|PHXSQqObSSk|I found it @McDonald's
 BlacktipH|A6s1vJklUME|Catching Fish Trapped by a Hurricane
 BlacktipH|IkSYrNEbfpM|Logan Paul Fights The Ocean
 BlacktipH|oK_fxVWTD4g|Searching for Tuna on Shrimp Boats
@@ -2707,7 +2707,6 @@ EarthInn|o7Sfi7SkiG8|你發現了嗎 ? 原來「神」藏在細節中 ! 揭開�
 EarthInn|C8MIeP03iRU|驚 ! 外星倖存者的終極揭秘「人類真正來自的地方」 ! 回去的關鍵就在「這裡」! ? 【地球旅館】
 EarthInn|5ZpZeLrLmw8|為什麼聖者都放下美好生活，選擇一條痛苦的修行之路？他們到底看到了什麼 ? 【地球旅館】
 EarthInn|n4e93cRBJSU|萬物皆有靈！打破結界，揭開與萬物溝通的秘訣！【地球旅館】
-ShiShan|JZV6O6HBep0|8.12【#時事軍事 】海瑪斯不是打人的，它的目標是更高價值的軍事資產（粵語）｜ #石山視點
 ShiShan|m4Q1R149n_Q|8.12  搜查特朗普，阻擋不了他再選總統！承諾！請大家和我一起記住這三個人。｜#石山視點
 ShiShan|1jw80WT5G1w|8.13【#新聞不過濾】習近平命令大搞創科，又11萬人棄港，李家超頭痕人才荒！習近平出訪沙特，不只為了石油！戰狼惹禍！台海緊張，拜登重新考慮是否減免對華關稅！
 ShiShan|RYRd8-akATI|8.13 銀行斷卡蔓延至深圳！小心東南亞中國黑幫，綁架詐騙賣器官，無惡不作。｜#石山視點
@@ -2757,6 +2756,7 @@ ShiShan|_05-UTspY_4|【#遠見快評(粵)】金門國軍連續實彈射擊，台
 ShiShan|f7vDGhJkqBo|9.3 四川大停電貓膩，和準備戰爭有關。水庫放水命令來自北京。｜#石山視點
 ShiShan|DiRBz9WIx28|【9.04菁英論壇】拜登簽芯片法案，啟動美中芯片大戰；籌芯片四方聯盟，美國三管齊下，封堵中共；三十年專注芯片代工，臺積電成就霸業；中共芯片大躍進，遍地爛尾。｜ #石山視點
 ShiShan|1PyCWg46HM0|9.4【#時事軍事】烏克蘭部隊在俄軍的頹勢中看到反攻的機會（粵語）｜ #石山視點
+ShiShan|V1yY7EIykNE|【#遠見快評(粵)】20大人事爆料坐實，習家軍禍福相依；謀反大案引而小發，習近平什麼算盤？成都「瘋狂購物節」背後：一個可怕的現實正在成型 ｜ #遠見快評唐靖遠 #石山視點
 zcwhwg|T_bYrqUa-Kk|BRAVE SOULS
 zcwhwg|6OXassMrbPs|缘起与自我觉醒之路（走出文化亡国第一集 2020年6月9日）
 zcwhwg|WvT61HLVoMI|走出文化亡国－前言
@@ -4007,9 +4007,6 @@ VisionTimes-HK|tKGEHcNGupg|李酉潭博士 馮崇義教師 張小剛先生 蘇�
 VisionTimes-HK|73sqLbOMxgg|林松博士：田北俊現身英國意興闌珊離港？ 前民陣成員海關問話2日被拒入境英國 港親共小學下跪向父母奉茶 台海第一槍  小粉紅投“榨蛋”台用引國際笑話台反擊  廈門跪低下令禁飛無人機
 VisionTimes-HK|KIe37AO32ME|成都2000萬人核酸系統崩潰 民怨四起「你們封了嗎？我瘋了」！「巴黎貝甜」被罰58萬後中國爆紅 民間痛斥上海昏聵無能 #香江快報
 VisionTimes-HK|YvdOi0mVs48|錢志健：世界的香港！說好香港故事 途經多倫多 華盛頓 亞特蘭大 德克薩斯 加州 溫哥華萬里行  港府唔好嚇人 真香港人最有國際視野 走遍北美 香港人奮勇自強
-ntd-news|JNjnCZzfsUo|新疆因疫情封門，物資緊缺，居民求助無門；美國中期選舉臨近，中國登上選民熱搜榜；瑞典關閉所有孔子學院，中文教育未停頓；美9月將審《台灣政策法》對台軍援45億美元【 #環球直擊 】｜ #新唐人電視台
-ntd-news|nbdWV1c_sW0|樓市泡沫破裂，還有多遠？惡性循環！中共救不救市，未來都很糟；爛尾樓背後，權貴竊笑？房奴如何自救？｜ #林瀾對話  08_27_2022
-ntd-news|Nht9C2-ezWg|新唐人全世界中華傳統武術大賽複賽結束，48人晉級決賽；又是一年月圓時，紐約法輪功學員感恩李大師；韓國與波蘭簽武器協議，首期交易58億美元；扎克伯格壓制亨特電腦門醜聞【 #全球新聞 】｜ #新唐人電視台
 ntd-news|0WaL8wrAiBU|【 #新聞週刊 】柬埔寨黑幕驚人，傳多名中國人受害，一帶一路淪禍首；李上習不下爆料；疫情蔓延，民指官方造假；美政要再訪台，加議員籲遠離微信；新唐人武術大賽鳴鑼；瑞典關閉所有孔子學院。｜ #新唐人電視台
 ntd-news|VKj133_Ztwg|江西九江旱情嚴重，打井工一天工作15小時；美海軍兩軍艦「自由行」通過臺灣海峽；NASA重啓登月序幕，史上最强火箭週一升空；新唐人武術大賽年輕選手表示，對武術的熱情自幼而生【#環球直擊】｜#新唐人電視台
 ntd-news|icgHkyBkZEg|【#新唐人直播 8_28】新唐人全世界中華傳統武術大賽 ｜ #新唐人電視台
@@ -4057,6 +4054,9 @@ ntd-news|zmOghElAEiE|公務員鐵飯碗難保，這次比1990年代更難辦；�
 ntd-news|n7iSW-JzKuU|【菁英論壇】拜登簽芯片法案，啟動美中芯片大戰；籌芯片四方聯盟，美國三管齊下，封堵中共；三十年專注芯片代工，臺積電成就霸業；中共芯片大躍進，遍地爛尾。｜ 菁英論壇 09_03_2022｜ #新唐人電視台
 ntd-news|9Lh-3x1Y5Qc|NASA再叫停登月發射；拜登維持對華關稅； 美再對台軍售11億；斯里蘭卡逃跑總統返國；俄民眾送戈爾巴喬夫最後一程：他給我們自由。【 #全球新聞 】｜ #新唐人電視台
 ntd-news|7PXk88N0pTM|【 #新聞週刊 】多個千萬人口城市被封控，民不聊生達臨界點；總加速師坐穩連任？戈翁逝世，全球悼念；台強力反擊，擊落中共無人機；工作中實踐真善忍，證實大法美好。｜ #新唐人電視台
+ntd-news|aFddJwCQO_Q|美國中期選舉，川普濱州集會，民眾反響熱烈；武漢黃陂多小區抗議，民眾高喊要解封；美國中期選舉，阿拉斯加排序選擇，共和黨人擔憂；威脅駕機撞沃爾瑪商場，美國飛行員被起訴【 #環球直擊 】｜ #新唐人電視台
+ntd-news|m2Eb3A6Zy2o|【#中國禁聞】武漢數千業主與警對峙，要求解封；成都防疫人員奇怪姿勢照片瘋傳；美四大動作連出，加速與中共脫鉤；20大前，大陸多地封城，民眾反抗不斷；美升級科技禁令，重擊中共軍事AI技術 ｜#新唐人電視台
+ntd-news|_6gVkxqAhdQ|【華府衝擊播】獨家專訪南達科他州長：不封鎖更好。州長克里斯蒂·諾姆日前接受英文大紀元專訪，暢談她的生活、信仰，以及如何做出職業生涯中一些最困難的決定 ｜ #新唐人電視台
 discovery|GSOupBp-9kQ|當代著名靈媒與天堂和靈魂對話 傳達來自靈界的訊息 人死如同丟掉一件舊衣服 與靈界簽訂好死亡方式與契約 ｜ 正知卓見 ｜ 未解之謎 ｜
 discovery|ZutqxmkoCi8|民國奇聞 山東一莊稼漢與一外國人靈魂、軀殼互換 同時死而復生 中法外交官牒文書齊上尋人啟事
 discovery|eJ_kUOGr-QI|但丁與《神曲》但丁為愛痴迷  遭遇中年危機 走出迷途 遊歷地獄、煉獄和天堂 做人的真正目的和人的上天之路 ｜ 正知卓見 ｜ 宇宙奧秘 ｜
