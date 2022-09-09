@@ -1975,7 +1975,6 @@ teahouse|GJKAH1AIvZc|毛寧發言第三天翻車：一尊出國，我不能說�
 teahouse|AjGwbzeABgs|惊喜！搬石头砸脚，意外赢得民心！【老北京茶館09_08_2022】
 teahouse|dcdBm_5nz-8|500億芯片計畫壓垮中共，習近平怎麼扛？馬斯克川普拜登大混戰，希拉蕊徹底服了！（老北京茶館_第791集_2022_09_08）
 teahouse|03VRnEJaCms|女王逝世，黨氣炸了！【老北京茶館09_09_2022】
-rfa|AERXMDNTQ0U|香港主权移交25年（二）政治篇——“港人治港、高度自治”之路如何了？
 rfa|2eIZCWui0R4|【习近平提前置换公安部长 反映深层不安？】习近平连任还有变数吗？（戴忠仁_程晓农_江峰）Part I.
 rfa|anTvgObQawA|【中共内部还有反习力量吗？普遍不满但无组织集团】习近平连任还有变数吗？（戴忠仁_程晓农_江峰）Part II.
 rfa|eOVxk9qsFec|那些面孔 ｜ "动物庄园"动画剧场
@@ -2025,6 +2024,7 @@ rfa|g5Z_QwSnR4k|【闭关锁国新探 “影射史学”标本 释放“批邓�
 rfa|k-EMP3AjPKs|严歌苓(下) ：我没有绝望 中国还能再往哪儿坏呢｜观点
 rfa|HaZZCE41vXc|【“自主闭关”歪理重重 不与先进文明交流中国必然后退】中国要走回闭关锁国的老路？（戴忠仁_宋永毅_江峰）Part II.
 rfa|WlAMB7A_D4Q|【闭关是文化自卑与小农经济自满的结合 长江可能倒流历史可能倒退】中国要走回闭关锁国的老路？（戴忠仁_宋永毅_江峰）Part III.
+rfa|heMxbhdahiw|我们与战争的距离--专访李喜明将军（戴忠仁_李喜明）｜ 亚洲很想聊
 Weapon|foVGj_Mh0pg|天弓三型飛彈覆蓋整個台灣，成為最強防空力量！
 Weapon|-uc6Mjlsgsk|鴨翼佈局對戰機究竟有這怎樣的影響？F-22會加裝鴨翼麽？
 Weapon|QxRHUlaIX6w|美國超高聲速武器試射成功！
@@ -2457,7 +2457,6 @@ DudePerfect|jcwaXQ2tGl8|It Just Keeps Getting Better 😂🏓
 DudePerfect|4oe-Cy_dIQk|Dude Perfect EXPOSED 🤫🤫🤫
 DudePerfect|_YUc8tXDjxQ|World's Longest Trick Shot Machine
 DudePerfect|ehPugxlo_oY|Ultimate Mini Games Battle 2
-MilitaryTech|T4gZYjUa9KA|USS Nimitz - The U.S.  Navy’s Best Aircraft Carrier in the World
 MilitaryTech|uF4pueLjOoI|These U.S. Deadly Weapons Are More Advanced than You Think
 MilitaryTech|s6QHcChqozg|Why Do Aircraft Carriers Have Their Island On The Starboard Side?
 MilitaryTech|Nm2h3W0oMEM|Super Hornet: The Most Lethal Fighter Jet in the World
@@ -2507,6 +2506,7 @@ MilitaryTech|Wv9OKJ3JuR8|Could Russia Really Beat An F-35 Stealth Fighter?
 MilitaryTech|OPNzz-GGrU8|F-15EX: The Air Force’s Plan For A ‘New’ Fighter (Or Missile Truck To Fight Russia?)
 MilitaryTech|fq3oPV8_fGM|Why the U-2 Spy Plane Never Carried Missiles
 MilitaryTech|dckRhJNgzq8|The Future of War Is Laser-based， and the U.S. Navy Is Ready
+MilitaryTech|Md7x7jDLys4|Are 12 Navy Aircraft Carriers Enough to Stop a Rising China? - US Military Technology
 aboluowang|0le6HbnYmZc|🔥前第一夫人梅蘭妮亞內衣褲全部重買都怪聯調局?實錘！驚人降級！拜登政府對台軍售；與中共開戰！美日合作勝負關鍵；印度GDP超過英國成為全球第五大經濟體；摧毀全球市場？G7出招俄撂狠話｜【阿波羅網FA】
 aboluowang|O6CcYLDJe58|「被黃標」🔥20大刀把子握誰手? 他沒戲了；末世！中共國妖僧大跳《天鵝湖》；普京已向俄軍下令9月15日前完全控制頓內茨克州全境【阿波羅網AA】
 aboluowang|utXH86e48uk|🔥三峽大壩卵石出 黃萬里前11個預測都實現了，就看最後1個了；成都核酸系統崩潰，防疫人員找信號照片瘋傳 閱讀量高達3.4億；成都封城百姓嘆末日：活豬活牛塞私家車後箱；慶解封唱歌陝西3男被拘｜【FA】
@@ -3507,7 +3507,6 @@ Taiwan1000|tcaXJ6AETXk|【基隆離島】季節限定基隆嶼跳島之旅！繞
 Taiwan1000|YA41h-6kEZ8|【基隆】和平島美食景點懶人包！基隆必吃吉古拉，手工炭烤最美味；銅板價隱藏版米苔目、鮮肉包，CP值超高！還有在地美食青苔水餃、現撈清燙小卷，紅磚老屋吃懷舊古早味剉冰！｜1000步的繽紛台灣 Ep419
 Taiwan1000|MtE39vg_17k|【基隆八斗子】季節限定產地美食旅遊！爆量飛魚卵香腸、XO醬你吃過嗎？體驗手作搓「海上黃金」飛魚卵灌香腸！愛護生態而發明的草蓆捕魚卵法超厲害，與海共存的八斗子人最懂海！｜1000步的繽紛台灣 Ep420
 Taiwan1000|UOrgepoCoks|【基隆八斗子】回訪Vlog！中秋應景伴手禮花枝香腸、飛魚卵香腸，海味十足的幸福感！漁港邊的友善餐廳漁夫鍋，海鮮食材要按照順序下鍋；在地人的天然游泳池大坪海岸，玩到不想回家！｜1000步的繽紛台灣
-soh-tv|vuzxjbtv1Xk|誰是美國的分裂者？無人機攻防持續升溫  台海頻臨戰爭戰爭邊緣？UN新疆人權報告帶來什麼影響？意義何在？【希望之聲TV-新聞焦點解讀-2022_9_2】主持:高潔  嘉賓   宋國誠 教授  謝田 教授
 soh-tv|nXlAt4qrxzg|白宮點名5人釋重大信號！拜登引火上身 得罪一半美國人 ；中共試探台灣遭擊敗【北美新聞】
 soh-tv|9QsLpbJgG24|中共經濟沙皇要退！習心頭大患誰來幫？美軍穿越台海照片曝光 驚現罕見一幕【希望之聲TV-國際風雲】
 soh-tv|XQyk2GCcbTw|中共大使館神秘人是誰？ 拜登趁宴請習胡幹這事 川普女婿發聲【兩岸要聞】
@@ -3553,10 +3552,11 @@ soh-tv|8wEl9NV6a18|永遠的英國女王伊麗莎白：在位時間最長的君�
 soh-tv|yTKwht8An1I|被稱是 整個世界的損失 川普：沒有人像她一樣【每日頭條】
 soh-tv|yceEFg-9-mU|70年王者逝去 未來走向何方？香港變內陸 記者被抓 兒童繪本作者定罪蘋果新功能香港支持？！【希望之聲TV-新聞焦點解讀-2022_9_8】主持:高潔  嘉賓   方偉
 soh-tv|HiXRGc2irDs|英女王永不退位的秘密！查爾斯登基；美釋重大信號，烏將領曝大戰結束時間【北美新聞】
-soh-tv|Vh7o-52_6UU|英女王駕崩暗號是這個？王室計劃細節流出！中共傾全國之力再辦一件大事！六大指令通過了【希望之聲TV-國際風雲】
+soh-tv|Vh7o-52_6UU|倫敦橋行動開始！女王去世細節曝光！中共傾全國之力再辦一件大事！六大指令通過了【希望之聲TV-國際風雲】
 soh-tv|c3wHYGIRp5Q|逆轉【兩岸要聞】
 soh-tv|GNVFif_uWHc|科技巨頭的好日子要結束了！白宮公布對大型科技平台重大改革原則；反了？聖彼得堡一區促國會提案讓普京下台【希望之聲TV-新聞快遞】
 soh-tv|HIwcKQZvTiw|驚人預言！英史上在位最長的王位繼承人查爾斯只能做3個月國王，其子威廉可能很快繼位【環球看點】
+soh-tv|7wtHW4QlhE0|圖啥？中共先被羞辱 再被誘上賊船 專家：中美都正在備戰 【紅朝禁聞】
 EricBerg|dCmxcKw58jY|預防病毒、維生素D加強免疫力，柏格醫生 Dr Berg
 EricBerg|zXT0awgJs0A|世上最渴望的食物:巧克力，有好處，柏格醫生 Dr Berg
 EricBerg|tHJR7nrPhi8|缺少碘7個原因，自然療法，柏格醫生 Dr Berg
@@ -3657,7 +3657,6 @@ tw-insight|QCJ3FI4AHTM|精彩片段》🔥三周年望復活前路 堅毅港人�
 tw-insight|JO_6nIGg2m8|精彩片段》🔥共產主義滲透分裂美國 台灣燈塔拉警報？｜宋國誠｜桑普｜@新聞大破解
 tw-insight|SbExKTnLuFU|🔥中共面臨新壓力情境 外交晶片都在拼突圍！台灣當前應主動做什麼？美國止戰重點在防止中共誤判！注意台灣大小粉紅接下來將猛批美台軍售！｜明居正｜宋國誠｜@新聞大破解  【2022年9月9日】
 tw-insight|9Xaz3SHRtKA|精彩片段》🔥台美軍事與情報合作將進一步推進？美國判斷台海爆發戰爭機率比過去大？中俄構成不了新軸心？有戰爭的意志 對方才不敢輕易言戰！｜明居正｜宋國誠｜@新聞大破解
-QuitTheCCP|vCAwDiERJx8|慶祝四億中華兒女退出中共黨團隊集會 八勇士現場三退領退黨證書
 QuitTheCCP|h4KP9zET2QE|社區領袖 Martha Flores-Vazquez褒奖退党中心及声援四亿华人三退
 QuitTheCCP|rxeKN3YVGEY|秦鵬：退黨運動開啟了中國和世界的救贖之路
 QuitTheCCP|cNnuGzvZnHM|香港實業家袁弓夷：退黨是生命救贖的第二次機會
@@ -3707,6 +3706,7 @@ QuitTheCCP|KT11DR0IuvY|各界名流齊聚紐約迎中秋 慶4億中國人三退
 QuitTheCCP|i_trQVRb2PM|社区领袖玛莎：4亿人退出中共，迎接没有共产主义的新中国
 QuitTheCCP|iXz7CoBRglI|著名电视节目主持人、艾美奖评委之一、社会活动家和作家也是民主党的重要代表人物的杰奎琳‧菲利普斯（Jacqui Philipps）：四亿勇士退党、你们在改变世界
 QuitTheCCP|rbyz6PzMdTU|共和党主要资助人、亿万富豪、投资基金总裁、国际政治活动家纽卡布（Frederick Newcomb）先生及夫人克劳丽（Cecelia Crowley） ：四亿人退党是一项壮举
+QuitTheCCP|PaRxc3YgrLI|壬寅中秋文藝演出暨各界名流慶四億中國人三退中秋晚會節選 （2022.09.05）
 ThoughtLeader|iNUp2G16npg|艾美獎記者沙里爾·阿特基森：信息「暴政」大衆恐慌！我們正處於一個前所未有的時代，新聞審查制度是經過精心策劃的...；為何說引入第三方來審查信息是非常危險的？（預告片）｜ 美國思想領袖 大紀元
 ThoughtLeader|Z59dnBKQTFU|田納西州眾議院議員馬克·格林：與中共拖鉤，助南部盟友！中共推一帶一路，拉丁美洲開始覺醒？回到各州保護憲法，對抗「取消文化」有何計劃？（預告片）｜ 美國思想領袖 大紀元
 ThoughtLeader|d8WE-Y_5u98|巴特切利亞醫生：疫情封鎖的致命後果！兒童是否應該戴口罩？在「封鎖」和「放任自流」之間的第三個政策：「重點保護！」（預告片）｜ 美國思想領袖 大紀元
@@ -3957,7 +3957,6 @@ hk-news|EZX1hPZHwak|【#新視角聽新聞】在岸人民幣匯率9月6日收於
 hk-news|o3Yf5kGBezg|【#新視角聽新聞】中國民眾購房意願大幅下降。陸媒9月6日報道，2022年上半年，中共6大國有銀行的新增個人住房貸款額度，僅為2021年同期1_3左右，創歷史新低。  ｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|jDqhr0H6oCs|【#新視角聽新聞】為什麼北京的經濟刺激政策現在不起作用，資深中國問題專家套用前美國總統克林頓的競選名言回應說，「笨蛋，關鍵是消費」。｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|_aG3kDKK0-U|【#新視角聽新聞】美中科技戰升溫之際，中共領導人習近平再度強調「黨領導」和舉國體制推進科技自主。專家認為，晶片大躍進集體爛尾的教訓在前，中共不可能發展好高科技產業。｜ #香港大紀元新唐人聯合新聞頻道
-VisionTimes-HK|miXXA375OK8|【字幕】程翔：我已經不再對習近平抱有任何希望
 VisionTimes-HK|VpE5-hvxjCU|【突發直播】曾焯文博士：如願以償！卓慧思當選英國首相 大快人心 對中共態度強硬！醫生蔡淑梅被拉！
 VisionTimes-HK|7qZUWUTnk50|【內幕】内幕驚人，中央首長的秘密會館鬧鬼？
 VisionTimes-HK|pk84axY6Upg|習近平欲打破慣例連任 誰將可能成為潛在接班人？印度參加「東方2022」軍演 已在美中之間選邊站？ #第一時間
@@ -4007,7 +4006,7 @@ VisionTimes-HK|3OiqeNdPTHc|敏感時刻 軍隊高層異動！習近平暴露恐�
 VisionTimes-HK|WweUZO2JV-c|曾焯文博士：英女王駕崩 香港影響 香港人心中永遠的女王！她鞠躬盡瘁  查理三世登位  重溫經典1997年香港主權移交英女王演講辭
 VisionTimes-HK|Mpldpxw5ANw|劉夢熊：繼續入境隔離 成毀香港罪人
 VisionTimes-HK|GwfTbDffjoM|中共現滅亡先兆；習此舉中共必垮；俄軍罷戰？曝戰爭結束時間；英女王辭世現異象； 美中要戰？#國際新聞眼
-ntd-news|1ryfyeOHwx0|美禁三款高端AI芯片對華出口；台灣擊落大陸無人機，中共挑釁適得其反；中共模擬攻擊美國軍艦；法澳聯手抵禦中共印太威脅【 #全球新聞 】｜ #新唐人電視台
+VisionTimes-HK|t7_z4zsDGl0|袁弓夷：英女王對國家的奉獻！大英帝國對世界的貢獻！
 ntd-news|m7yriIZFxpk|金門擊落中共無人機，最佳防衛，結束冷戰最後領袖辭世，習是另類戈氏？兼紀檢國安雙重身份，劉彥平被雙開移交司法，證明中共自我更新努力失敗｜橫河觀點  2022.09.01 ｜ #新唐人電視台
 ntd-news|-0CzhPGPu-o|層層布局，習想終身執政？內部講話流出：見一個抓一個！成都謠言變預言；美大使上海排隊做核酸；防疫狠過軍管戒嚴；市民怒砸核酸點；曹興誠回歸ROC台籍；金門首度擊落無人機【 #晚間新聞 】｜ #新唐人電視台
 ntd-news|TmdSQAUIiTA|北京昌平暴力強拆 屋主受傷住院；深圳管控升級 民眾抱怨買不到藥 掙不到錢；悼8·31太子站事件 洛城港人：守護自由公義；京都七夕天燈節回歸 美食娛樂消暑解悶。【 #環球直擊 】｜ #新唐人電視台
@@ -4057,6 +4056,7 @@ ntd-news|b6YeOkSAIQ8|完了！衛健委：核酸檢測要常態化！小區鎖�
 ntd-news|9W1Ehl4ICfk|伊犁和貴陽求救信息大量湧現 遭到封殺；湘雅專家將蓮子殼診斷為腫瘤 引發批評；三退突破4億人 悉尼集會慶祝；移民廣告花招百出 律師警告小心掉入陷阱。【 #環球直擊 】｜ #新唐人電視台
 ntd-news|KB3fVFcNjqE|【#新聞大家談 9_9】前中國地產商：我曾經很壞；跟隨「潛規則」，靠一「狠招」迅速發家；暴富後日子難過？「官匪夾擊」，牢獄不斷，億萬資產被搶；「中國無人安全」，看清真相與逃離 ｜ #新唐人電視台
 ntd-news|Fg4UTSswass|海外華人祝賀李洪志先生中秋節快樂；「自由之家」報告：北京操縱全球媒體輿論；美陸軍太平洋司令：不急於撤出日本陸軍基地武器裝備；三退突破4億人，悉尼集會慶祝【 #環球直擊 】｜ #新唐人電視台
+ntd-news|afl0GLb9PMs|【#中國禁聞】伊寧封城悲劇頻傳，求救信息遭封殺；英女皇逝世，港人獻花悼念；衛健委表忠自打臉，常態化核酸費用誰出？中秋節，大陸民眾向法輪功創始人獻祝福；遼寧黨校高級講師獄中受虐，生命垂危｜#新唐人電視台
 discovery|GSOupBp-9kQ|當代著名靈媒與天堂和靈魂對話 傳達來自靈界的訊息 人死如同丟掉一件舊衣服 與靈界簽訂好死亡方式與契約 ｜ 正知卓見 ｜ 未解之謎 ｜
 discovery|ZutqxmkoCi8|民國奇聞 山東一莊稼漢與一外國人靈魂、軀殼互換 同時死而復生 中法外交官牒文書齊上尋人啟事
 discovery|eJ_kUOGr-QI|但丁與《神曲》但丁為愛痴迷  遭遇中年危機 走出迷途 遊歷地獄、煉獄和天堂 做人的真正目的和人的上天之路 ｜ 正知卓見 ｜ 宇宙奧秘 ｜
