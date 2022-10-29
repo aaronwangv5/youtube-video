@@ -47,7 +47,7 @@ while read line; do
 		if [ -f $vname.mp4 ]; then
 			size=$(ls -l $vname.mp4  | awk '{print $5}')
 			if [ $size -lt  150000000 ]; then
-				/opt/kaltura/ffmpeg-4.0.2/bin/ffmpeg -nostdin -i $vname.mp4 -b:a 64K -vn $vname.mp3 #2> /dev/null
+				/opt/kaltura/bin/ffmpeg -nostdin -i $vname.mp4 -b:a 64K -vn $vname.mp3 #2> /dev/null
 			fi
 		fi
 	fi
