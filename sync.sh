@@ -43,7 +43,8 @@ while read line; do
 		echo -n
 	else
 		#youtube-dl --cookies /root/cookies.txt -o "_%(id)s.%(ext)s" -f 18 -- $id
-		/usr/local/bin/yt-dlp --compat-options all --cookies /root/cookies.txt -o "_%(id)s.%(ext)s" -f 18 -- $id
+		/usr/local/bin/yt-dlp --socket-timeout 300 --compat-options all \
+			--cookies /root/cookies.txt -o "_%(id)s.%(ext)s" -f 18 -- $id
 		if [ -f $vname.mp4 ]; then
 			size=$(ls -l $vname.mp4  | awk '{print $5}')
 			if [ $size -lt  150000000 ]; then
