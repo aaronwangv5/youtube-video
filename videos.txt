@@ -2379,6 +2379,7 @@ StrictlyDumpling|_cJ8T6LWSWo|$3 vs. $69 Japanese KING CRAB Seafood Ramen ｜ BES
 StrictlyDumpling|irAaiIIEp-c|The Best FOOD MALL in Singapore?! Japanese FOOD STREET at Jurong Point
 StrictlyDumpling|amWSnbya2Lc|$0.70 NOODLES! Best CHEAP EATS in Singapore
 StrictlyDumpling|lv2ncRyTO8s|CHEAPEST BUFFET in Singapore ｜ $5 All You Can Eat!
+Sarkissian|WeFZoN0ZEV4|50cal Umarex Hammer airgun vs spray paints
 Sarkissian|kP1CEhic5DE|500 Magnum vs Hero's Vest from RTS tactical
 Sarkissian|FUIpC4G2Esg|Throwing Grenade inside ATM machine
 Sarkissian|Y5J7IVHboxY|how much Epoxy Resin does it take to stop 50bmg
@@ -2388,7 +2389,6 @@ Sarkissian|7ylsjDaZ1qQ|Full auto desert Eagle vs body armor
 Sarkissian|H6m6Fx-s6SM|Desert Eagle machine gun straight UP
 Sarkissian|QHdQoTZrKjk|R3dNeck MiniGun
 Sarkissian|CEYRhax0b-A|Hk mp7 into lake
-Sarkissian|6Fk87NJZYCE|1911 Magnum
 Sarkissian|pFwKAu4Phhk|Mp5 ￼tactical reload using ur foot 🦶🏻
 Sarkissian|JeI3iJymnAk|Full auto mp7
 Sarkissian|QuZMCkLki20|Shot my grandpas lake with mp7
@@ -3429,8 +3429,6 @@ Taiwan1000|SlWl59m4dyI|【屏東枋寮】火車站餐車美食走路就能到！
 Taiwan1000|t1uZ-WOH40c|【屏東枋寮】枋寮住一晚體驗小鎮風情～騎腳踏車逛漁港，品嚐在地特產吻仔魚料理；50年老字號餐廳，海鮮料理大氣又澎湃！高CP值旅店，無邊際泳池玩水看夕陽，純樸愜意慢活之旅！｜1000步的繽紛台灣Ep423
 Taiwan1000|YvG2kozXugw|【台中北屯】台中竟然有邊登山邊吃美食的步道？經典推薦，大坑步道這樣最好走！9號上，10號木棧道下，吃早餐、登山、逛街一次滿足；下山早午餐，客家粄條蛋餅～親子也OK！｜1000步的繽紛台灣 Ep424
 Taiwan1000|K8lM4rFCts8|【台中】不用30分鐘！大坑仙境5號步道，超內行走法登頂小百岳頭嵙山！新社香菇街私房行程，採香菇、DIY料理跟美食一次滿足；有禮貌的野生獼猴見過嗎？猴子圈裡竟然有公主！｜1000步的繽紛台灣 Ep425
-soh-tv|7S4Y-10HOFg|柏林牆要倒？各地起義！學者預判中國走勢 這一點嚇倒習近平【紅朝禁聞】
-soh-tv|WmvILUbhvGo|習近平高調備戰 要攻台還是對內維穩？大數據查稅 富豪外逃先繳「買命錢」【財經慧眼】
 soh-tv|eezf4WI3LEk|重大轉折點！俄已失守赫爾松，可能將很快輪到克里米亞，俄已經窮途末路？【每日頭條】
 soh-tv|JB9EksfljEg|中共最怕的人出現！習高調秀肌肉 恐引美國動手；眾議院議長易主 福西慘了【北美新聞】
 soh-tv|cGAjVVAQyPA|美眾議院鹿死誰手？兩黨惡鬥正上演！若共和黨掌權，優先處理他？烏總統正式提和談五大條件；【國際風雲】
@@ -3479,6 +3477,8 @@ soh-tv|Ae1OFxmPnRE|德國總理11年来首次訪問越南總理【短视频】
 soh-tv|1G6LvYh3Z1o|世界杯在即 中國少林足球  飛膝撞頭不犯規 國足前主帥李鐵被帶走調查【熱點追蹤】
 soh-tv|NC27nAp6pWo|全民反抗第一槍 防暴裝甲車出動 習正為軍管做最後準備？【兩岸要聞】
 soh-tv|2U-xsZpW2Tg|澳总理表示 : 中國、澳大利亞將在11月15日舉行多年來的首次領導人會晤【短视频】
+soh-tv|YT276sjYSGc|克裏米亞進入海馬斯射程範圍！烏克蘭戰役決定性階段；面對面較勁 拜登三大任務碾壓習近平；獅子跳進觀光車 遊客反應出人意料【環球看點】
+soh-tv|hKy2M5eOTDY|普京親信竟敢公開威脅 習是否心中一涼？烏當眾給北京一巴掌【紅朝禁聞】
 EricBerg|Fq-fJw6Av6w|膽結石，吃這些食物，自然療法，柏格醫生 Dr Berg
 EricBerg|gKAYTdZMHdQ|柏格醫生怎麼吃生酮食物的例子，柏格醫生 Dr Berg
 EricBerg|2eByY1rW3Z8|便祕不只是缺纖維，便秘補充更多胃酸、膽鹽、酵素或益生菌，柏格醫生 Dr Berg
@@ -3829,7 +3829,6 @@ LiangZhen|ISUBxE9wtPw|【11.11直播20:30】袁弓夷：美國中期選舉為何
 LiangZhen|ydKzB9-488M|【11.12直播11:30】沈四海：習拜會14日登場，台海局勢再成焦點；美預警台海衝突全球每年虧逾19兆港幣；中國富人財產大縮水，移民顧問遭問話阻「潤」潮｜2022年11月12｜珍言真語 梁珍
 LiangZhen|iiSkl4N-o9o|移加港人REX FUNG ：(中字) 事隔四年再回港，感受到白色恐怖；如何能在加拿大安居樂業？買地建屋定買獨立屋？入境多久買最佳？在加面試工作的小tips｜2022年11月12日｜珍言真語 梁珍
 LiangZhen|ag5FJaiX97U|【11.11直播精華】袁弓夷：中期選舉未見結果；民主黨點票拖字訣，大選疑竇又重演？各國左傾，習近平謀任共產盟主；移民成敏感詞，「潤出者」八成財產已上交｜2022年11月13日｜珍言真語 梁珍
-hk-news|hiL1XzpHHvE|順應美中期選舉趨勢  科技公司提脫鉤中共  ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|RaT6MKDTL4U|美力促盟國加入  限制高端晶片輸華  ｜ #香港大紀元新唐人聯合新聞頻道  #新視角聽新聞
 hk-news|AgCtJ7Z3570|孩子去哪了？ 河北任澤二中瞞疫學生家長抗議遭鎮壓  ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|vNypzEhv6Ug|監管明星廣告代言  中共大賺維穩收入  ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
@@ -3879,6 +3878,7 @@ hk-news|If9G6w0AACU|清零政策習沒有錯  是地方念錯了經？   ｜ #�
 hk-news|4hJjaIcBkTo|加拿大敞開大門  港人移民關鍵機會點   ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 hk-news|DuvosIyw39M|【新視角聽新聞】在中共清零政策下，大批學生被封控隔離。河北師範大學半夜敲宿舍門，立刻轉運，學生們措手不及。鄭經技師學院學生家長表示，陰性陽性混住，期待接孩子回家隔離。｜ #香港大紀元新唐人聯合新聞頻道
 hk-news|mA_oB0KBXNE|美對台不存在戰略模糊   余茂春：別再一廂情願   ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
+hk-news|Wye4TsTr0oA|多重壓力下   中國房企紛紛爆雷   ｜ #香港大紀元新唐人聯合新聞頻道 #新視角聽新聞
 VisionTimes-HK|-jiftaMxPD8|鮑彤逝世 留2個密碼嚇壞習近平！香港已獲不可逆轉成功！習近平誓師攻臺 現不祥之兆；權力沒進籠子，人民進了籠子 #長歌行
 VisionTimes-HK|HGul8LeBXpA|【字幕】桑普：用公幣買豪宅 已無人可管 還會變成趨勢
 VisionTimes-HK|lMFi2yjm_JQ|習近平新政：最高要求是活下去！ 控訴中共！中國校園流傳手寫信；趙紫陽政治秘書逝世，遺言醒世！突發：中國疫情失控 廣州封城！一張證明要價3000，還要陪睡！有人一把菜刀鬧革命？ #第一時間
@@ -3929,8 +3929,6 @@ VisionTimes-HK|TC2KtvythPw|四通橋勇士有消息了 沒被處決！習近平�
 VisionTimes-HK|EQ6sUgUv1kI|中央軍委名單也被偷換？ 國人要習慣吃草的日子？老黨員怒喊不解封就炸樓！中共謊言反噬  ；驚爆！中共內部沒人相信這戰略 #國際新聞眼
 VisionTimes-HK|iwHsRQ9d404|🔥🔥【快評】鍾劍華博士：亞洲七欖賽韓國站播《榮光》歌 港府急跳忠字舞 鬧球員冇反抗人哋點做呀 話要解散球隊老實講大部分都係西人 楊潤雄話執法點執法 娛樂性都幾強 唔好搞韓國啦國際賽奏錯國歌時有發生
 VisionTimes-HK|ceLkPQ9rSbA|【內幕】胡錦濤曾一度延緩了中共的敗壞但無力回天
-ntd-news|3-5swk-BCy0|關鍵州 記者直擊 採訪｜ #新唐人電視台 #shorts
-ntd-news|nIWOhPFeldc|華裔移民 紐約第十選區聯邦眾議員競選人 談話｜#新唐人電視台
 ntd-news|hZnKt-8sg_k|關鍵州 記者直擊 採訪｜#新唐人電視台
 ntd-news|35qVyo2Io3w|中期選舉 名家看點： 新罕布什爾州聯邦眾議員參選人｜#新唐人電視台
 ntd-news|0QTOxZwCruA|眾議員共和黨領袖 凱文麥卡錫談話｜#新唐人電視台
@@ -3977,8 +3975,10 @@ ntd-news|xkp4-vXX59M|【 #新聞週刊 】拜登放話，不給習近平讓步�
 ntd-news|MlzdkT7I53Y|【 #中國禁聞 】男足前主帥李鐵被帶走調查，知情人爆細節；疫情三年，哪些行業大發橫財？圍堵中共最新佈局，拜登參加東盟峰會；悲劇再現！重慶孕婦就醫受阻流產；中共修改立法法，中國未來堪憂｜ #新唐人電視台
 ntd-news|07zuIHU_MMg|重慶疫情爆發，靜默封控致孕婦流產；受賄3.5億，原遼寧副省長劉國強被判死緩；拜習會將登場，拜登：我很了解習近平；美日韓三邊會談，聚焦朝鮮危機【 #環球直擊 】｜ #新唐人電視台
 ntd-news|jq6WKkZzytw|前國足主帥李鐵曝被帶走；雙十一慘淡，阿里首度不公布銷售額；美中期選舉，民主黨將續掌參院；伊斯坦布爾爆炸事故6身亡81傷；舒爾茨訪越南，9成德企考慮轉移中國業務【#全球新聞】｜ #新唐人電視台
-ntd-news|PHapRYJXE_4|中國鐵路連2天傳出爆炸 引發恐慌；中國大量移民公司倒閉 移民需求卻暴增； 穆薩爾當選斯洛文尼亞首位女總統； 台灣法輪大法修煉心得交流會 六千人參與。【 #環球直擊 】｜ #新唐人電視台
+ntd-news|PHapRYJXE_4|中國鐵路連2天傳出事故 引發恐慌；中國大量移民公司倒閉 移民需求卻暴增； 穆薩爾當選斯洛文尼亞首位女總統； 台灣法輪大法修煉心得交流會 六千人參與。【 #環球直擊 】｜ #新唐人電視台
 ntd-news|SIKstPFzJ5k|【 #新聞大家談 11_14 】裝甲車進居民區，「不配合…嚴肅處置」；株洲民眾推倒圍欄！二十條新規鬆綁？國務院和習對著幹；拜習會！最敏感紅線，到底踩不踩？｜ #新唐人電視台
+ntd-news|zG4ga4XkW18|美中關係數十年新低，拜習會印尼登場；廣州封控不讓出，幼兒高燒，父母心急如焚；台灣法輪大法修煉心得交流會，六千人參與；《演員夢》華府首映，主流社會好評如潮【 #環球直擊 】｜ #新唐人電視台
+ntd-news|OTaj6jYgT2E|【#中國禁聞】拜習會登場，立場各表；台灣盛大排字，大陸民眾稱讚；樓市瀕崩盤，金融16條難救；美禁令效應，中國芯片進出口雙降；疫情藏商機，封控愛好者大發橫財；媒體口中閉關鎖國和中美脫鉤 ｜#新唐人電視台
 discovery|GSOupBp-9kQ|當代著名靈媒與天堂和靈魂對話 傳達來自靈界的訊息 人死如同丟掉一件舊衣服 與靈界簽訂好死亡方式與契約 ｜ 正知卓見 ｜ 未解之謎 ｜
 discovery|ZutqxmkoCi8|民國奇聞 山東一莊稼漢與一外國人靈魂、軀殼互換 同時死而復生 中法外交官牒文書齊上尋人啟事
 discovery|eJ_kUOGr-QI|但丁與《神曲》但丁為愛痴迷  遭遇中年危機 走出迷途 遊歷地獄、煉獄和天堂 做人的真正目的和人的上天之路 ｜ 正知卓見 ｜ 宇宙奧秘 ｜
