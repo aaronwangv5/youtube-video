@@ -127,7 +127,7 @@
             type: "get",
             dataType: 'json',
             success: function (json) {
-                subSet = [json[1], json[0]]
+                subSet = [json[2], json[1], json[0]]
                 for (i in subSet) {
                     v = subSet[i]
                     ele = `<li class='list-group-item'><a href='${v.id}'>${v.title}</a></li>`
